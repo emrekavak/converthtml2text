@@ -1,3 +1,3 @@
 # converthtml2text
-With turkish language convert all html file to .txt file in a directory.
+convert written by turkish all html file to .txt file language in a directory.
 You can use a file name (example.html) instead of *.html
